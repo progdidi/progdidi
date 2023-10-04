@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://progdidi.github.io/" target="_blank">Diana</a> 
+<h1 align="center">Hi there, I'm Diana</h1> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Starting Frontend developer</h3>
+<h3 align="center">Starting Frontend developer</h3> 
+<p>Here is my <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
+<p>My codewars: </p>
+[![codewars](https://www.codewars.com/users/progdidi/badges/large)](https://www.codewars.com/users/progdidi) 
+
 
 <!--
 **progdidi/progdidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
