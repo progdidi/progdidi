@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://progdidi.github.io/" target="_blank">Diana</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Starting Frontend developer</h3>
 
 <!--
 **progdidi/progdidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
