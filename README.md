@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Starting Frontend developer</h3> 
 <p>Here is my <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
-<p>My codewars: </p>
-[![codewars](https://www.codewars.com/users/progdidi/badges/large)](https://www.codewars.com/users/progdidi) 
+<p>My codewars: </p> https://www.codewars.com/users/progdidi/badges/large
 
 
 <!--
