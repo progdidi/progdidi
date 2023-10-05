@@ -16,7 +16,7 @@
  - Typescript
 
 <h5>Here is my final <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
-<h5>Here is my <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
+<h6>Here is my <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
 
 
 <!--
