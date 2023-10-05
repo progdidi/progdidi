@@ -6,10 +6,17 @@
  - quotes generator
  - study timer
  - React projects for restaurant and shop
- - landing pages for different areas 
+ - landing pages for different areas
 
-<h5>Here is my <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
-<h5>My <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
+ 🌱 I’m currently learning
+ - HTML
+ - CSS
+ - JS
+ - React& Redux
+ - Typescript
+
+<h5>Here is my final <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
+<h5>Here is my <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
 
 
 <!--
