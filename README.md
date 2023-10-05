@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Diana</h1> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Diana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am starting Frontend developer</h3> 
 <p>Here is my <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
 <p>My <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
