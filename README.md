@@ -8,9 +8,9 @@
  - React projects for restaurant and shop
  - landing pages for different areas
 
- 🌱 I’m currently learning
+ 🌱 My skills
  - HTML
- - CSS
+ - CSS, SASS, TailwindCSS
  - JS
  - React& Redux
  - Typescript
