@@ -4,8 +4,7 @@
 🔭 I’m currently working on my portfolio projects
  - my portfolio landing page
  - quotes generator
- - study timer
- - React projects for restaurant and shop
+ - React projects for travel agency
  - landing pages for different areas
 
  🌱 My skills
@@ -15,8 +14,8 @@
  - React& Redux
  - Typescript
 
-<h5>Here is my final <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
-<h6>Here is my <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
+<h3>Here is my final <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
+<h3>Here is my <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
 
 
 <!--
