@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Diana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am starting Frontend developer</h3> 
 
-🔭 I’m currently working on my portfolio projects
+🔭 I’m currently working on my portfolio projects:
  - my portfolio landing page
  - quotes generator
  - React projects for travel agency
  - landing pages for different areas
+ - The Library - React app for books library based on open API
 
  🌱 My skills
  - HTML
