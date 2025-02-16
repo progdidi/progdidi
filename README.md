@@ -1,18 +1,6 @@
 <h1 align="center">Hi there, I'm Diana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am starting Frontend developer</h3> 
 
-🔭 I’m currently working on my portfolio projects:
- - my portfolio landing page
-   
- 🌱 My skills
- - HTML
- - CSS, SASS, TailwindCSS
- - JS
- - React& Redux
- - Typescript
-
-<h3>Here is my final <a href="https://progdidi.github.io/" target="_blank">portfolio</a> </p>
-<h3>Here is my <a href="https://www.codewars.com/users/progdidi" target="_blank">codewars</a> </p> 
 
 
 <!--
